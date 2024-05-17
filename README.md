@@ -151,6 +151,3 @@ Feedstock Maintainers
 
 * [@Julia310](https://github.com/Julia310/)
 
-
-<!-- dummy commit to enable rerendering -->
-
